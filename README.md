@@ -1,2 +1,3 @@
 # Spoiler_Detection
-Pre-training project
+
+This is a personal pre-training project by Wei Yong.
